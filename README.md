@@ -72,3 +72,18 @@ Write-Output "Data extraction complete. Check the output file at $outputFilePath
 ## Customization
 If your .vrl file format is different or more complex, you may need to adjust the script to handle that format. For example, if the columns are fixed-width or use a different delimiter, modify the splitting logic accordingly.
 
+
+
+-----------------------------------------------------------------------------------PYTHON------------------------------Ve---------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------YT-----------------VERSION-----------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PYTHON EDITION
+
+## To extract columns from .vrl files using Python, you can utilize the pandas library for easier manipulation of tabular data or handle the parsing manually if your data format is simple.
+
+## Here’s a Python script that assumes .vrl files are text-based and the columns are separated by a delimiter (e.g., comma, space). The script will read the .vrl file, extract two specific columns, and save the result to a CSV file.
+
+
+
+
